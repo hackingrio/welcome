@@ -8,7 +8,7 @@
   
   ## Acessando os repositórios
   
-  Para ter acesso ao repositório da sua equipe basta que o capitão acesse clicnado no link abaixo do seu respectivo ao seu cluster, então o mesmo poderá adicionar os membros restantes ao repositório.
+  Para ter acesso ao repositório da sua equipe basta que o capitão acesse clicando no link abaixo do seu respectivo ao seu cluster, escolha um nome super criativo para sua equipe neste momento, então adicione os membros restantes ao repositório.
   
   - [HackingRio - Cluster Industrias e Cleantech](https://classroom.github.com/g/PZNLB149)
   - [HackingRio - Cluster Alimentação](https://classroom.github.com/g/GqE_Xeqw)
