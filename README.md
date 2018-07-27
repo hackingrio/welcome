@@ -26,3 +26,12 @@
   - [HackingRio - Cluster Tecnologia Top Trends](https://classroom.github.com/g/Iei0PjQt)
   - [HackingRio - Cluster Turismo](https://classroom.github.com/g/QYE93p12)
   
+  ## Observações Gerais
+  
+  O repositório é privado para o time e continuará existindo mesmo após o Hackathon, durante o hackathon a organização e os mentores técnicos terão acesso ao repositório para fins de avaliação. Cabe ao time decidir, ao final do hackathon se o repositório continuará privado ou se o código passará a ser aberto e público para toda a comunidade.
+  
+  Tomamos a liberdade de inicializar o repositório com este arquivo de README.md e uma licença de código, lembrem-se de modificar o copyright da licença para o nome da sua equipe no lugar de HackingRio, também sinta-se a vontade para escolher quaquer outra licença a sua escolha, bem como caso queiram, deletar o arquivo de licença, o repositório é de vocês! 
+ 
+  Vocês também estão convidados a fazer parte do nosso [time oficial de Hackers](https://github.com/orgs/HackingRio/teams/oficial-hackers) e caso queiram, podem fazer com que a [sua aparição na organização](https://github.com/orgs/HackingRio/people) seja pública, para que sua badge do evento apareça para todo mundo! \o/
+  
+  Por fim vale ressaltar mais uma vez que o repositório é de vocês, então sintam-se a vontade para administrar da forma que quiserem, criando branches e forks, vocês também podem adicionar uma foto ou imagem que represetem a sua equipe!
