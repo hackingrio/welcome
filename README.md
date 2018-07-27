@@ -14,7 +14,7 @@
   - [HackingRio - Cluster Alimentação](https://classroom.github.com/g/GqE_Xeqw)
   - [HackingRio - Cluster Economia Criativa](https://classroom.github.com/g/jMV6T4Q4)
   - [HackingRio - Cluster Educação](https://classroom.github.com/g/gveS_A77)
-  - [HackingRio - Cluster Educação](https://classroom.github.com/g/mjha9cc2)
+  - [HackingRio - Cluster Energia](https://classroom.github.com/g/mjha9cc2)
   - [HackingRio - Cluster Esporte](https://classroom.github.com/g/QkwJ7F83)
   - [HackingRio - Cluster Financas e Seguros](https://classroom.github.com/g/5c50IX0f)
   - [HackingRio - Cluster Jogos](https://classroom.github.com/g/4mYqlRAU)
