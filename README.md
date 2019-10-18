@@ -1,8 +1,7 @@
   # Welcome Hackers!
   
-  Olá Hackers, é com muita felicidade que os recebemos ao HackingRio 2019 :tada:.
-
-  Esse repositório lhe dará instruções de como criar seu time, como adicionar membros e como criar o seu repositório privado. 
+  Olá Hackers, é com muita felicidade que os recebemos ao HackingRio 2019 :tada:
+  Esse repositório lhe dará instruções de como criar seu time, adicionar membros e gerar seu repositório. 
 
   ### 1 - Criando seu time.
 
@@ -27,12 +26,11 @@
 
 
   Digite o nome de seu time no campo `Create a new team` e clique em ` + Create team`
-  Tenha em mente que uma vez criado o nome não poderá ser alterado, logo, pense bem no nome que irão usar.
-
-
+Tenha em mente que uma vez criado o nome não poderá ser alterado, logo, pense bem no nome que irão usar.
+  
   Pronto, time e repositório criados e de quebra você ja recebe automaticamente um convite para fazer parte da organização do hacking rio no GitHub. Note também que o nome de seu time fica ligado ao nome que seu repositório carregará durante o evento.
 
 
   ### 2 - Membros a bordo!
 
-  Agora os membros de seu time poderão acessar, pelo mesmo link de cluster, a lista de times participantes. Encontre o seu time e clique em `join`. Pronto agora basta hackear soluções incríveis.
+  Agora os membros de seu time poderão acessar, pelo mesmo link de cluster, a lista de times participantes. Encontre o seu time e clique em `join`. Agora basta hackear soluções incríveis.
