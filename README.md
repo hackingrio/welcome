@@ -1,4 +1,4 @@
-![alt text](https://github.com/hackingrio/welcome/blob/master/assets/welcome.png)
+![alt text](https://github.com/hackingrio/welcome/blob/master/assets/hackers.png)
   
   Olá Hackers, é com muita felicidade que os recebemos ao HackingRio 2019 :tada:
   Esse repositório lhe dará instruções de como criar seu time, adicionar membros e gerar seu repositório. 
