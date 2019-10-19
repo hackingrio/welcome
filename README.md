@@ -14,7 +14,7 @@
   - [HackingRio - Cluster Educação](https://classroom.github.com/g/tPY1L9Ge)
   - [HackingRio - Cluster Energia](https://classroom.github.com/g/9eJYXC_i)
   - [HackingRio - Cluster Esporte](https://classroom.github.com/g/sVqPm-Q8)
-  - [HackingRio - Cluster Mobilidade](https://classroom.github.com/g/EENw9mnr)
+  - [HackingRio - Cluster Distribuição e Conveniência](https://classroom.github.com/g/EENw9mnr)
   - [HackingRio - Cluster NASA International Space Apps Challenge](https://classroom.github.com/g/qzdBX2xC)
   - [HackingRio - Cluster Óleo e Gás](https://classroom.github.com/g/0fnlhbBB)
   - [HackingRio - Cluster Saúde](https://classroom.github.com/g/_pQMH52W)
