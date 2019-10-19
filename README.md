@@ -16,12 +16,12 @@
   - [HackingRio - Cluster Esporte](https://classroom.github.com/g/sVqPm-Q8)
   - [HackingRio - Cluster Distribuição e Conveniência](https://classroom.github.com/g/EENw9mnr)
   - [HackingRio - Cluster NASA International Space Apps Challenge](https://classroom.github.com/g/qzdBX2xC)
-  - [HackingRio - Cluster Óleo e Gás](https://classroom.github.com/g/0fnlhbBB)
+  - [HackingRio - Cluster Proteção de Dutos](https://classroom.github.com/g/0fnlhbBB)
   - [HackingRio - Cluster Saúde](https://classroom.github.com/g/_pQMH52W)
   - [HackingRio - Cluster Segurança e Defesa e Cybersecurity](https://classroom.github.com/g/ost8rLMZ)
   - [HackingRio - Cluster Seguros](https://classroom.github.com/g/8YXTXNVS)
   - [HackingRio - Cluster Sustentabilidade e Oceanos](https://classroom.github.com/g/dzD7IxWt)
-  - [HackingRio - Cluster Transformação Digital em O&G](https://classroom.github.com/g/pb_JSKr2)
+  - [HackingRio - Digitalização Corporativa na Indústria de O&G](https://classroom.github.com/g/pb_JSKr2)
   - [HackingRio - Cluster Turismo e Economia Criativa](https://classroom.github.com/g/Cayv8dju)
 
 
