@@ -1,11 +1,11 @@
 ![alt text](https://github.com/hackingrio/welcome/blob/master/assets/hackers.png)
   
-  Olá Hackers, é com muita felicidade que os recebemos no HackingRio 2019 :tada:
-  Esse repositório lhe dará instruções de como criar seu time, adicionar membros e gerar seu repositório. 
+  Olá Hackers, é com muita felicidade que os recebemos no HackingRio 2019 aqui no GitHub :tada:
+  Esse repositório lhe dará instruções para criar seus reposiótios e adicionar seus membros.
 
   ### 1 - Criando seu time.
 
-  O primeiro passo é criar seu time e para isso usaremos o GitHub Classroom. Essa ferramenta incrível tornará o processo de criar times e repositórios algo muito prático. Cabe ao seu grupo nesse momento criar um nome interessante, coerente e prático que resume de forma concisa o seu espírito de equipe. 
+  O primeiro passo é criar seu time e para isso usaremos o GitHub Classroom. Essa ferramenta incrível tornará o processo de criar times e repositórios algo muito prático. Cabe ao seu grupo nesse momento criar um nome interessante, coerente e prático que resume de forma concisa o seu espírito de equipe.
   Tendo escolhido o nome, um dos membros ficará encarregado de acessar o link correspondente ao cluster que faz parte na lista abaixo:
 
   - [HackingRio - Cluster Alimentação](https://classroom.github.com/g/nDZb8zHJ)
