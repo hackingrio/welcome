@@ -21,7 +21,7 @@
   Digite o nome de seu time no campo `Create a new team` e clique em ` + Create team`
 Tenha em mente que uma vez criado o nome não poderá ser alterado, logo, pense bem no nome que irão usar.
 
-![cria-time](https://github.com/hackingrio/welcome/blob/master/assets/01.png)
+![cria-time](https://raw.githubusercontent.com/hackingrio/welcome/master/assets/00.png)
 
   Pronto, time e repositório criados e de quebra você ja recebe automaticamente um convite para fazer parte da organização do hacking rio no GitHub. Note também que o nome de seu time fica ligado ao nome que seu repositório carregará durante o evento.
   
