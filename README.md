@@ -11,12 +11,12 @@
   O primeiro passo é criar seu time e para isso usaremos o GitHub Classroom. Essa ferramenta incrível tornará o processo de criar times e repositórios algo muito prático. Cabe ao seu grupo nesse momento criar um nome interessante, coerente e prático que resume de forma concisa o seu espírito de equipe.
   Tendo escolhido o nome, um dos membros ficará encarregado de acessar o link correspondente a sua vertical na lista abaixo:
 
-  - [HackingHelp - Vertical Saúde](https://classroom.github.com/g/uYKl841n)
-  - [HackingHelp - Vertical Educação](https://classroom.github.com/g/KFIP6RHQ)
-  - [HackingHelp - Vertical Cooperativismo](https://classroom.github.com/g/L_vxXoJX)
-  - [HackingHelp - Vertical Empregabilidade](https://classroom.github.com/g/hxhdq3KR)
-  - [HackingHelp - Vertical Assistência Social](https://classroom.github.com/g/D61QpKUZ)
-  - [HackingHelp - Vertical Logística](https://classroom.github.com/g/QFhaFvn1)        
+  - [HackingHelp - Vertical Saúde]()
+  - [HackingHelp - Vertical Educação]()
+  - [HackingHelp - Vertical Cooperativismo]()
+  - [HackingHelp - Vertical Empregabilidade]()
+  - [HackingHelp - Vertical Assistência Social]()
+  - [HackingHelp - Vertical Logística]()        
  
   Digite o nome de seu time no campo `Create a new team` e clique em ` + Create team`
 Tenha em mente que uma vez criado o nome não poderá ser alterado, logo, pense bem no nome que irão usar.
