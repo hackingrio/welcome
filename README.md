@@ -36,6 +36,8 @@ Tenha em mente que uma vez criado o nome não poderá ser alterado, logo, pense 
 
   Agora os membros de seu time poderão acessar, pelo **mesmo link de cluster**, a lista de times participantes. Encontre o seu time criado no passo 1 e clique em `join`. Agora basta hackear soluções incríveis.
 
+Ainda com dúvida ? [Asista esse vídeo](https://www.youtube.com/watch?v=0VD4MVeG6g0) :clapper:
+
 ### Clusters Esportes & Games (Game Jam+) e Cybersecurity
 
 Sejam bem vindos :tada: vocês irão seguir uma dinâmica de entrega de código e análise do mesmo de forma diferente dos demais. Procurem o ativador de seu Cluster para mais detalhes. 
