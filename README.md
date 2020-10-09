@@ -9,18 +9,18 @@
   O primeiro passo é criar seu time e para isso usaremos o GitHub Classroom. Essa ferramenta incrível tornará o processo de criar times e repositórios algo muito prático. Cabe ao seu grupo nesse momento criar um nome interessante, coerente e prático que resume de forma concisa o seu espírito de equipe.
   Tendo escolhido o nome, um dos membros ficará encarregado de acessar o link correspondente a sua vertical na lista abaixo:
 
-  - [Hacking.Rio - Cluster Cooperativismo]()
-  - [Hacking.Rio - Cluster Energia]()
-  - [Hacking.Rio - Cluster Educação]()
-  - [Hacking.Rio - Cluster Empregabilidade ]()
-  - [Hacking.Rio - Cluster Logistica ]()
-  - [Hacking.Rio - Cluster Sustentabilidade ]()
-  - [Hacking.Rio - Cluster Oceanos ]()
-  - [Hacking.Rio - Cluster Turismo ]()
-  - [Hacking.Rio - Cluster Varejo ]()
-  - [Hacking.Rio - Cluster Transformação Digital Saude]()
-  - [Hacking.Rio - Cluster Gov.BR]()
-  - [Hacking.Rio - Cluster Mulheres in Tech]()
+  - [Hacking.Rio - Cluster Cooperativismo](https://classroom.github.com/g/p9IooBNt)
+  - [Hacking.Rio - Cluster Energia](https://classroom.github.com/g/arXHhZfO)
+  - [Hacking.Rio - Cluster Educação](https://classroom.github.com/g/rXbULRfp)
+  - [Hacking.Rio - Cluster Empregabilidade ](https://classroom.github.com/g/0XLJgkRr)
+  - [Hacking.Rio - Cluster Logistica ](https://classroom.github.com/g/ckCprYG6)
+  - [Hacking.Rio - Cluster Sustentabilidade ](https://classroom.github.com/g/YC7M-nKk)
+  - [Hacking.Rio - Cluster Oceanos ](https://classroom.github.com/g/9fBRKt2v)
+  - [Hacking.Rio - Cluster Turismo ](https://classroom.github.com/g/vG5ayTZ6)
+  - [Hacking.Rio - Cluster Varejo ](https://classroom.github.com/g/L6-iWtNp)
+  - [Hacking.Rio - Cluster Transformação Digital Saude](https://classroom.github.com/g/MtcMCM4r)
+  - [Hacking.Rio - Cluster Gov.BR](https://classroom.github.com/g/vNl9rRyv)
+  - [Hacking.Rio - Cluster Mulheres in Tech](https://classroom.github.com/g/lYJI9DsZ)
   
  
   Digite o nome de seu time no campo `Create a new team` e clique em ` + Create team`
