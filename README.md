@@ -10,10 +10,9 @@
   Tendo escolhido o nome, um dos membros ficará encarregado de acessar o link correspondente a sua vertical na lista abaixo:
 
   - [Hacking.Rio - ODS 1](https://classroom.github.com/a/FaZpMRgj)
-  - [Hacking.Rio - ODS 2](https://classroom.github.com/a/jy9xIbb4)
   - [Hacking.Rio - ODS 3](https://classroom.github.com/a/ZMgrtNdT)
   - [Hacking.Rio - ODS 4](https://classroom.github.com/a/i-SDBBsT)
-  - [Hacking.Rio - ODS 5](https://classroom.github.com/a/DD73mBh_)
+  - [Hacking.Rio - ODS 5 - NASA Challenge](https://classroom.github.com/a/DD73mBh_)
   - [Hacking.Rio - ODS 6](https://classroom.github.com/a/JCtUhDpM)
   - [Hacking.Rio - ODS 7](https://classroom.github.com/a/SL5hwF3_)
   - [Hacking.Rio - ODS 8](https://classroom.github.com/a/dppa1dZf)
@@ -23,12 +22,8 @@
   - [Hacking.Rio - ODS 12](https://classroom.github.com/a/pK54KRdI)
   - [Hacking.Rio - ODS 13](https://classroom.github.com/a/qwd1JiJ3)
   - [Hacking.Rio - ODS 14](https://classroom.github.com/a/aWvPpmgi)
-  - [Hacking.Rio - ODS 15](https://classroom.github.com/a/4QCzsd7d)
-  - [Hacking.Rio - ODS 16](https://classroom.github.com/a/Ho3Pv3lW)
   - [Hacking.Rio - ODS 17](https://classroom.github.com/a/z5uw5RI9)
   - [Hacking.Rio - ODS 17](https://classroom.github.com/a/z5uw5RI9)
-  - [Hacking.Rio - NASA International Space Apps Challenge 2021](https://classroom.github.com/a/kySLvn8s)
-  - [Hacking.Rio - Game Jam+](https://classroom.github.com/a/U4AGXIlf)
   
  
   Digite o nome de seu time no campo `Create a new team` e clique em ` + Create team`
