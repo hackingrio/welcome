@@ -1,0 +1,27 @@
+TextWindow.WriteLine("Olá essas sao as vagas disponiveis:  ")
+TextWindow.WriteLine(" 1- administração")
+TextWindow.WriteLine("2- contador")
+TextWindow.WriteLine(" 3- administração")
+TextWindow.WriteLine(" 4- carpinteiro")
+TextWindow.WriteLine("")
+escolha = TextWindow.ReadNumber()
+If escolha <=1 Or 4 Then
+  TextWindow.WriteLine(" Agora que sabemos a sua vaga desejada, Iremos coletar informações para o seu pre curriculo")
+EndIf
+TextWindow.WriteLine("")
+TextWindow.WriteLine("Digite o seu nome completo:")
+nome= TextWindow.Read()
+TextWindow.WriteLine("")
+TextWindow.WriteLine(" sua idade:")
+idade= TextWindow.ReadNumber()
+TextWindow.WriteLine("")
+TextWindow.WriteLine(" formação academica:")
+TextWindow.WriteLine(" ensino medio completo ou incompleto")
+formação= TextWindow.Read()
+TextWindow.WriteLine("")
+TextWindow.WriteLine(" possui alguma experiencia nesta vaga:")
+nao= nao
+resposta= TextWindow.Read()
+If resposta = nao Then
+  TextWindow.WriteLine(" voce nao tem as qualificaçoes necessaria para esta area")
+  EndIf
