@@ -1,6 +1,4 @@
-![welcome](https://raw.githubusercontent.com/hackingrio/welcome/master/assets/welcome-00.png)
-  
-  Olá Hackers, sejam muito bem vindos ao Hacking.Rio 2021 aqui no GitHub :tada:
+    Olá Hackers, sejam muito bem vindos ao Hacking.Rio 2021 aqui no GitHub :tada:
   Esse tutorial lhe dará as devidas instruções para criar seu repositório e versionar seu código da maneira mais eficiente possível.
   Entenda o porque [aqui](https://github.com/hackingrio/welcome/blob/master/assets/porque.md).
 
